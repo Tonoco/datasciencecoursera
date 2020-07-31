@@ -1,0 +1,9 @@
+---
+title: "Hello Word.md"
+author: "Tonoco"
+date: "30/7/2020"
+output: word_document
+##This is a markdown file
+```{r}
+print("Hello_World")
+```
